@@ -1,0 +1,92 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-size: 62.5%;
+}
+.header{
+	width: 100vw;
+	height: 3em;
+/*	border:1px solid red;*/
+	background-color: #68CDD5;
+	text-align: center;
+	display: block;
+
+}
+.sign{
+/*	border:1px solid red;*/
+	float: left;
+    margin-left: 5px;
+    line-height: 300%;
+    text-decoration: none;
+    color: #FFF;
+
+}
+.login{
+/*	border:1px solid red;*/
+    display: inline;
+/*	margin: 10px auto;*/
+    font-size: 15px;
+	line-height: 200%;
+	color: #FFF;
+}
+
+.close{
+/*	border:1px solid red;*/
+	float: right;
+	margin-right: 5px;
+    line-height: 300%;
+    text-decoration: none;
+      color: #FFF;
+}
+.phone{
+	margin-left: 2vw;
+/*	border:1px solid red;*/
+	width: 10vw;
+	height: 4.1em;
+	display: block;
+	float: left;
+	text-align: center;
+
+}
+.locked{
+	margin-left: 2vw;
+/*	border:1px solid red;*/
+	width: 10vw;
+	height: 4.1em;
+	display: block;
+	float: left;
+		text-align: center;
+
+}
+
+
+.pnum{
+	outline: none;
+	height: 4.1em;
+	width: 84vw;
+	display: block;
+/*	border:1px solid red;*/
+		float: right;
+
+
+}
+.login2{
+	height: 3em;
+	width: 100vw;
+/*	border:1px solid yellow;*/
+	background-color: #68CDD5;
+	text-align: center;
+	font-size: 1.2em;
+	line-height: 3em;
+	display: block;
+/*	float: right;*/
+  color: #FFF;
+}
+.forgetp{
+	display: block;
+/*			border:1px solid red;*/
+			float: right;
+			color:  #68CDD5;
+			margin-right: 3vw;
+			margin-top: 3vw;
+}
